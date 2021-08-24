@@ -30,10 +30,7 @@ let skills = {
 ```
 
 
-![Github Stats](https://github.com/himanshu72/github-stats/blob/master/generated/overview.svg)
-![Top Langs](https://himanshu72/github-stats/blob/master/generated/languages.svg)
-
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Himanshu72&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 <hr>
 
 
