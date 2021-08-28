@@ -35,7 +35,7 @@ let skills = {
 
 
 
-📝 - [Resume](https://docs.google.com/document/d/1ifHlFsvcA7aS64ghvUdaZuPtgdEd044uMnBfgO2_snE/edit?usp=sharing)
+📝 - [Resume](https://docs.google.com/document/d/1ifHlFsvcA7aS64ghvUdaZuPtgdEd044uMnBfgO2_snE/edit?usp=sharing) | 📝 [Website](http://himanshujoshi.engineer/)
 
 ### How to reach me
 
