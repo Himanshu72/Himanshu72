@@ -20,11 +20,11 @@ I enjoy each aspect, and love building websites and applications from start to f
 let skills = {
   code: ["HTML", "CSS", "Javascript", "Typescript", "PHP", "Dart", "Python"],
   technology: {
-    frameworks : ["React", "Next", "React-Native", "Flutter", "Node", "Express", "EJS", "Angular","Vue JS","GraphQL"],
-    tools : ["Git", "Redux", "Firebase",  "Sass", "Styled-Components", "Jest", "Puppeteer"]
+    frameworks : ["React", "Next", "React-Native", "Flutter", "Node","Nest Js","Express", "EJS", "Angular","Vue JS","GraphQL"],
+    tools : ["Git", "Redux", "Firebase",  "Sass", "Styled-Components", "Jest", "Puppeteer","Azure","GCP","Kafka"]
    },
   database: {
-    NoSQL : ["MongoDB"],
+    NoSQL : ["MongoDB","Reddish"],
     SQL : ["MySQL", "PostgreSQL"],
   },
 }
@@ -38,7 +38,7 @@ let skills = {
 
 📝 - [Resume](https://docs.google.com/document/d/1ifHlFsvcA7aS64ghvUdaZuPtgdEd044uMnBfgO2_snE/edit?usp=sharing) | 📝 [Website](http://himanshujoshi.engineer/)
 
-###Dev Card
+### Dev Card
 <a href="https://app.daily.dev/Himanshu72"><img src="https://api.daily.dev/devcards/790424e957b34993809e996d511ecf10.png?r=7m6" width="400" alt="Himanshu Joshi's Dev Card"/></a>
 
 ### How to reach me
