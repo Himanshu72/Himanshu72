@@ -3,7 +3,8 @@
 
 <!-- <img margin="auto" src="https://i.ibb.co/h29DXtb/w.png"/> -->
 
-### Hello world!
+### About Me
+<a href="https://app.daily.dev/Himanshu72"><img src="https://api.daily.dev/devcards/790424e957b34993809e996d511ecf10.png?r=7m6" width="400" alt="Himanshu Joshi's Dev Card"/></a>
 
 <p>
   <em>
