@@ -4,7 +4,7 @@
 <!-- <img margin="auto" src="https://i.ibb.co/h29DXtb/w.png"/> -->
 
 ### About Me
-<a href="https://app.daily.dev/Himanshu72"><img src="https://api.daily.dev/devcards/790424e957b34993809e996d511ecf10.png?r=7m6" width="400" alt="Himanshu Joshi's Dev Card"/></a>
+
 
 <p>
   <em>
@@ -37,6 +37,9 @@ let skills = {
 
 
 📝 - [Resume](https://docs.google.com/document/d/1ifHlFsvcA7aS64ghvUdaZuPtgdEd044uMnBfgO2_snE/edit?usp=sharing) | 📝 [Website](http://himanshujoshi.engineer/)
+
+###Dev Card
+<a href="https://app.daily.dev/Himanshu72"><img src="https://api.daily.dev/devcards/790424e957b34993809e996d511ecf10.png?r=7m6" width="400" alt="Himanshu Joshi's Dev Card"/></a>
 
 ### How to reach me
 
