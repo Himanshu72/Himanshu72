@@ -31,11 +31,6 @@ let skills = {
 ```
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Himanshu72&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-<hr>
-
-
-
 📝 - [Resume](https://docs.google.com/document/d/1ifHlFsvcA7aS64ghvUdaZuPtgdEd044uMnBfgO2_snE/edit?usp=sharing) | 📝 [Website](http://himanshujoshi.engineer/)
 
 ### How to reach me
